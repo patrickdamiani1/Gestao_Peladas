@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Peladas AI",
+  "description": "Um sistema completo para agendar e gerenciar partidas de futebol amador (peladas), com agendamento de horários, simulação de pagamentos e um assistente de IA para criar resumos épicos das partidas.",
+  "requestFramePermissions": []
+}
